@@ -1,5 +1,5 @@
 backend:
-  - name: test-repo
+  - name: basic-gatsby
 
 +  name: github
-+  repo: your-username/your-repo-name
++  repo: Error6251/basic-gatsby

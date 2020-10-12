@@ -14,6 +14,7 @@ module.exports = {
       },
     },
     `gatsby-plugin-sass`,
+    `gatsby-plugin-netlify-cms`,
     "gatsby-plugin-sharp",
     {
       resolve: "gatsby-transformer-remark",
